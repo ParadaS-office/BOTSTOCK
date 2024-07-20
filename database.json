@@ -1,0 +1,35 @@
+{
+ "accounts": [
+  {
+   "name": "visa",
+   "price": 1,
+   "tax": 2,
+   "emails": []
+  },
+  {
+   "name": "netflix",
+   "price": 5370,
+   "tax": 5653,
+   "emails": []
+  },
+  {
+   "name": "steam",
+   "price": 3276,
+   "tax": 3449,
+   "emails": []
+  },
+  {
+   "name": "yt",
+   "price": 5000,
+   "tax": 5264,
+   "emails": []
+  }
+ ],
+ "status": "open",
+ "ch": "1005463868383952976",
+ "admins": [
+  "782356381256777739"
+ ],
+ "blacklist": [],
+ "buy": "998263545303142493"
+}
